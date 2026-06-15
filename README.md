@@ -75,6 +75,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | [0007-reverse-integer](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0050-powx-n](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 ## Greedy
@@ -103,6 +104,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0050-powx-n](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0050-powx-n/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
