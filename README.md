@@ -13,6 +13,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -25,6 +26,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | [0020-valid-parentheses](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0058-length-of-last-word/) | Easy |
+| [0125-valid-palindrome](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
