@@ -27,6 +27,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +65,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | [0169-majority-element](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +137,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0169-majority-element/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
