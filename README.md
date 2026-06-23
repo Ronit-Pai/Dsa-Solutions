@@ -22,6 +22,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0012-integer-to-roman](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0020-valid-parentheses/) | Easy |
@@ -63,6 +64,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0012-integer-to-roman](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -87,6 +89,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | [0002-add-two-numbers](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0012-integer-to-roman](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
