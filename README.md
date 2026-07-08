@@ -77,6 +77,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0268-missing-number](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
@@ -94,6 +95,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | [0012-integer-to-roman](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0050-powx-n/) | Medium |
+| [0069-sqrtx](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 ## Greedy
