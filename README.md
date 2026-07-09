@@ -96,6 +96,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | [0013-roman-to-integer](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 ## Greedy
@@ -151,6 +152,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -164,4 +166,8 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
