@@ -7,6 +7,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0027-remove-element/) | Easy |
@@ -21,6 +22,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0012-integer-to-roman](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0013-roman-to-integer/) | Easy |
@@ -151,6 +153,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
