@@ -32,6 +32,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -74,6 +75,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | [0013-roman-to-integer](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -121,6 +123,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | [0075-sort-colors](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Linked List
