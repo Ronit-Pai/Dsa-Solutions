@@ -65,6 +65,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -88,6 +89,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | [0074-search-a-2d-matrix](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +128,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | [0242-valid-anagram](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
