@@ -68,6 +68,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +122,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | ------- | ------- |
 | [0136-single-number](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
