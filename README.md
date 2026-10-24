@@ -35,6 +35,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | [0125-valid-palindrome](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [2409-count-days-spent-together](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +115,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | [0070-climbing-stairs](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
+| [2409-count-days-spent-together](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
